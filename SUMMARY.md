@@ -56,7 +56,7 @@
 ## 프리미엄 서버 <a href="#premium" id="premium"></a>
 
 * [프리미엄 서버 안내](premium/undefined.md)
-* [캠페인](premium/undefined-1/README.md)
+* [캠페인](premium/undefined-1/README.md)
   * [진행 주기](premium/undefined-1/undefined.md)
   * [가격](premium/undefined-1/undefined-1.md)
 * [구매 방법](premium/undefined-2/README.md)
