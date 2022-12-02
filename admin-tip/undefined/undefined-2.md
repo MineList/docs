@@ -1,6 +1,5 @@
 ---
 description: 마인리스트 도움말에 기여해주세요
-layout: landing
 ---
 
 # 마인리스트 도움말 기여
