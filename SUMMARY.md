@@ -63,10 +63,7 @@
   * [로그인](premium/undefined-2/undefined.md)
   * [본인 인증](premium/undefined-2/undefined-1.md)
   * [캠페인 구매](premium/undefined-2/undefined-2.md)
-
-***
-
-* [결제 관련 FAQ](faq-1.md)
+* [결제 관련 FAQ](premium/faq-1.md)
 
 ## 서버 운영 팁 <a href="#admin-tip" id="admin-tip"></a>
 
