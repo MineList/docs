@@ -2,7 +2,7 @@
 
 * [마인리스트 소개](README.md)
 * [고객센터 문의](undefined.md)
-* [도움말 기여](<undefined-1 (1).md>)
+* [도움말 기여](undefined-1.md)
 
 ## 시작하기 <a href="#getting_start" id="getting_start"></a>
 
@@ -24,11 +24,11 @@
   * [서버 비활성화 해제](server/undefined-1/undefined-1.md)
   * [서버 배너 등록](server/undefined-1/undefined-2.md)
 * [서버 모니터링](server/undefined-2.md)
-* [서버 접속 문제](server/undefined-3/README.md)
-  * [마인크래프트 접속 오류](server/undefined-3/undefined.md)
-  * [마인리스트 내 마인크래프트 서버 접속 오류](server/undefined-3/undefined-1.md)
-* [서버 순위](server/undefined-4/README.md)
-  * [순위 높이기](server/undefined-4/undefined.md)
+* [서버 접속 문제](server/connection-problem/README.md)
+  * [마인크래프트 접속 오류](server/connection-problem/player.md)
+  * [마인리스트 내 마인크래프트 서버 접속 오류](server/connection-problem/minelist.md)
+* [서버 순위](server/rank/README.md)
+  * [순위 높이기](server/rank/higher-rank.md)
 * [등록 불가능 서버](server/undefined-5/README.md)
   * [규정 위반 서버](server/undefined-5/undefined.md)
   * [랜 서버](server/undefined-5/undefined-1.md)
@@ -45,15 +45,15 @@
 
 ## Votifier
 
-* [Votifier가 무엇인가요?](votifier/introduction.md)
-* [설정 방법](votifier/configure.md)
-* [자주 묻는 질문](votifier/faq/README.md)
-  * [Bungeecord 사용](votifier/faq/bungeecord.md)
-  * [Votifier 접속 실패](votifier/faq/votifier.md)
+* [Votifier가 무엇인가요?](votifier/votifier.md)
+* [설정 방법](votifier/undefined.md)
+* [자주 묻는 질문](votifier/undefined-1/README.md)
+  * [Bungeecord 사용](votifier/undefined-1/bungeecord.md)
+  * [Votifier 접속 실패](votifier/faq/connection-problem.md)
 
 ***
 
-* [기술 지원](undefined-1.md)
+* [기술 지원](<undefined-1 (1).md>)
 
 ## 프리미엄 서버 <a href="#premium" id="premium"></a>
 
@@ -69,9 +69,9 @@
 
 ## 서버 운영 팁 <a href="#admin-tip" id="admin-tip"></a>
 
-* [용어집](admin-tip/undefined/README.md)
+* [용어집](<admin-tip/undefined/README (1).md>)
   * [아이피](faq/undefined-1.md)
   * [업타임](faq/undefined-2.md)
-* [기술 자습서](<admin-tip/undefined/README (1).md>)
+* [기술 자습서](admin-tip/undefined/README.md)
   * [윈도우 방화벽 설정](admin-tip/undefined/undefined.md)
   * [공유기 포트포워딩](admin-tip/undefined/undefined-1.md)
