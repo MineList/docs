@@ -1,7 +1,9 @@
 ---
-description: 마인리스트 도움말에 기여해주세요
+description: 마인리스트에서는 Votifier 설정에 대한 기술 지원을 해드리고 있지 않습니다
 ---
 
-# 도움말 기여
+# 기술 지원
 
-도움말에 추가하고 싶은 내용이나 잘못된 점이 있다면 Github 저장소를 통해 변경을 요청해 주세요.
+아래 커뮤니티를 통해 도움을 받아보세요.
+
+* [지식인 커뮤니티 지원](https://kin.naver.com/qna/question.naver?dirId=20411\&d1Id=2)
