@@ -1,5 +1,5 @@
 ---
-description: 결제 관련한 자주 묻는 질문
+description: 결제 관련 자주 묻는 질문
 ---
 
 # 결제 관련 FAQ

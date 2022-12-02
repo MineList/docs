@@ -1,6 +1,8 @@
 # Table of contents
 
 * [마인리스트 소개](README.md)
+* [고객센터 문의](undefined.md)
+* [도움말 기여](undefined-1.md)
 
 ## 시작하기 <a href="#getting_start" id="getting_start"></a>
 
@@ -11,6 +13,7 @@
 ## 자주 묻는 질문 <a href="#faq" id="faq"></a>
 
 * [마인리스트는 마인크래프트 서버인가요?](faq/undefined.md)
+* [CAPTCHA 오류](faq/captcha.md)
 
 ## 서버 <a href="#server" id="server"></a>
 
@@ -38,10 +41,11 @@
 * [무효 추천](vote/undefined-1/README.md)
   * [무효 추천으로 처리되는 사례](vote/undefined-1/undefined.md)
   * [가족 계정](vote/undefined-1/undefined-1.md)
+* [추천 보상 미수령](vote/undefined-2.md)
 
 ## Votifier
 
-* [Votifier란?](votifier/votifier.md)
+* [Votifier가 무엇인가요?](votifier/votifier.md)
 * [설정 방법](votifier/undefined.md)
 * [자주 묻는 질문](votifier/undefined-1/README.md)
   * [Bungeecord 사용](votifier/undefined-1/bungeecord.md)
@@ -49,7 +53,7 @@
 
 ***
 
-* [기술 지원](undefined-1.md)
+* [기술 지원](undefined-1-1.md)
 
 ## 프리미엄 서버 <a href="#premium" id="premium"></a>
 
@@ -65,10 +69,9 @@
 
 ## 서버 운영 팁 <a href="#admin-tip" id="admin-tip"></a>
 
-* [용어집](admin-tip/undefined/README.md)
-  * [아이피](admin-tip/undefined/ip.md)
-  * [업타임](admin-tip/undefined/uptime.md)
-* [기술 자습서](admin-tip/undefined-1/README.md)
-  * [윈도우 방화벽 설정](admin-tip/undefined-1/undefined.md)
-  * [공유기 포트포워딩](admin-tip/undefined-1/undefined-1.md)
-  * [마인리스트 도움말 기여](admin-tip/undefined-1/undefined-2.md)
+* [용어집](<admin-tip/undefined/README (1).md>)
+  * [아이피](faq/undefined-1.md)
+  * [업타임](faq/undefined-2.md)
+* [기술 자습서](admin-tip/undefined/README.md)
+  * [윈도우 방화벽 설정](admin-tip/undefined/undefined.md)
+  * [공유기 포트포워딩](admin-tip/undefined/undefined-1.md)
