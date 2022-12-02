@@ -4,15 +4,15 @@
 
 ## 시작하기 <a href="#getting_start" id="getting_start"></a>
 
-* [로그인 방법](getting\_start/undefined.md)
-* [마인크래프트 서버 접속](getting\_start/undefined-1/README.md)
-  * [자바 에디션에서 서버 접속](getting\_start/undefined-1/undefined.md)
+* [로그인 방법](getting\_start/login.md)
+* [마인크래프트 서버 접속](getting\_start/connect-minecraft-server/README.md)
+  * [자바 에디션에서 서버 접속](getting\_start/connect-minecraft-server/java-edition.md)
 
 ## 자주 묻는 질문 <a href="#faq" id="faq"></a>
 
 * [마인리스트는 마인크래프트 서버인가요?](faq/undefined.md)
-* [아이피란?](faq/undefined-1.md)
-* [업타임이란?](faq/undefined-2.md)
+* [아이피란?](faq/ip.md)
+* [업타임이란?](faq/uptime.md)
 
 ## 서버 <a href="#server" id="server"></a>
 
@@ -70,3 +70,4 @@
 * [기술 자습서](admin-tip/undefined/README.md)
   * [윈도우 방화벽 설정](admin-tip/undefined/undefined.md)
   * [공유기 포트포워딩](admin-tip/undefined/undefined-1.md)
+  * [마인리스트 도움말 기여](admin-tip/undefined/undefined-2.md)
